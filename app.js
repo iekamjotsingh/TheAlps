@@ -20,6 +20,6 @@ gsap.to(title,{
 ScrollTrigger.create({
     trigger:".animate-it-bitch",
     pin:true,
-    markers:true,
+    // markers:true,
     end:"bottom 30%"
 })
